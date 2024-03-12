@@ -1,0 +1,20 @@
+{
+	"version": "5",
+	"dialect": "pg",
+	"entries": [
+		{
+			"idx": 0,
+			"version": "5",
+			"when": 1710271148929,
+			"tag": "0000_clear_network",
+			"breakpoints": true
+		},
+		{
+			"idx": 1,
+			"version": "5",
+			"when": 1710285450216,
+			"tag": "0001_broken_stepford_cuckoos",
+			"breakpoints": true
+		}
+	]
+}
