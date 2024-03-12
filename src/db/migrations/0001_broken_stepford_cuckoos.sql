@@ -1,0 +1,1 @@
+ALTER TABLE "categories" ALTER COLUMN "segment_id" DROP NOT NULL;
